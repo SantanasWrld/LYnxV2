@@ -1,7 +1,5 @@
 # LYnxV2
 
-![Cheat Framework Banner](https://via.placeholder.com/800x200?text=Universal+Player+Cheat+Framework)
-
 ## 📌 Overview
 My first ever attempt at making a cheat for Unreal Engine 5 Game ["The Headliners"](https://store.steampowered.com/app/3059070/The_Headliners/).
 
