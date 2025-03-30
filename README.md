@@ -1,6 +1,4 @@
 # LYnxV2
-
-## 📌 Overview  
 This is my first attempt at creating a cheat for the Unreal Engine 5 game, [The Headliners](https://store.steampowered.com/app/3059070/The_Headliners/).  
 
 ## 📋 Requirements  
