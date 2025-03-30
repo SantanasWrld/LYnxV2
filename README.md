@@ -1,16 +1,21 @@
-## 📌 Overview
-My first ever attempt at making a cheat for the Unreal Engine 5 Game ["The Headliners"](https://store.steampowered.com/app/3059070/The_Headliners/).
+# LYnxV2
 
-### 📋 Requirements
-- Windows 10/11 (64-bit)
-- "The Headliners" on Steam
-- [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+## 📌 Overview  
+This is my first attempt at creating a cheat for the Unreal Engine 5 game, [The Headliners](https://store.steampowered.com/app/3059070/The_Headliners/).  
 
-### 💉 Injection Methods
-- For injection, I recommend making or using your own injector. However, [Cheat Engine](https://cheatengine.org/) is also an option.
+## 📋 Requirements  
+Ensure you meet the following requirements before using this cheat:  
+- Windows 10/11 (64-bit)  
+- A copy of *The Headliners* on Steam  
+- [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 
-### 🤝 Contribution
-- Contributions are welcome. Feel free to fork the repo and open a pull request.
+## 💉 Injection Methods  
+To inject the cheat, you can either:  
+- Develop or use your own custom injector  
+- Utilize [Cheat Engine](https://cheatengine.org/) as an alternative  
 
-### ⚠️ Disclaimer 
-- Neither I nor any other developers involved in this project are responsible for bans or consequences of any sort.
+## 🤝 Contributions  
+Contributions are welcome! If you’d like to improve this project, feel free to fork the repository and submit a pull request.  
+
+## ⚠️ Disclaimer  
+We take no responsibility for any bans or consequences resulting from the use of this software. Use it at your own risk.  
