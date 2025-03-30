@@ -1,5 +1,5 @@
 ## 📌 Overview
-My first ever attempt at making a cheat for Unreal Engine 5 Game ["The Headliners"](https://store.steampowered.com/app/3059070/The_Headliners/).
+My first ever attempt at making a cheat for the Unreal Engine 5 Game ["The Headliners"](https://store.steampowered.com/app/3059070/The_Headliners/).
 
 ### 📋 Requirements
 - Windows 10/11 (64-bit)
